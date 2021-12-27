@@ -1,2 +1,0 @@
-- penambahan daftar isi
-- revisi engine yang digunakan
